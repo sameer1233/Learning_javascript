@@ -22,7 +22,8 @@ let boolean_Datatype = true;
 let null_Datatype = null;
 let undefined_Datatype = undefined;
 let object_Datatype = {name: "Sameer", age: 23};
-let array_Datatype = [1,2,3,4,5];
+let symbol = undefined
+
 
 
 
